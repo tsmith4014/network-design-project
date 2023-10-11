@@ -2,15 +2,15 @@
 
 ## Objective: Network Design for a Small Business using AWS Cloud Services
 
-Mission: System and Network Design for Codeplatoon Website
+Mission: System and Network Design for FantasyVegaMetrics Website
 
 ### Background:
 
-Codeplatoon is a website that provides a variety of coding bootcamps and training programs for students looking to learn how to code. The website runs on WordPress, which is hosted on an AWS EC2 instance. For security purposes, the database is running on-premise in the Chicago office.
+FantasyVegaMetrics is a refined platform dedicated to delivering actionable insights through advanced analytics. The website runs on WordPress, which is hosted on an AWS EC2 instance. For security purposes, the database is running on-premise in the Erie, PA office.
 
 ### Requirements:
 
-As the system and network architect for the Codeplatoon website, you have been tasked with designing a system that meets the following requirements:
+As the system and network architect for the FantasyVegaMetrics website, you have been tasked with designing a system that meets the following requirements:
 
 - High Availability: The website must be available 24/7 and have minimal downtime.
 - Security: The website must be secured against cyber attacks and ensure the privacy and integrity of user data.
