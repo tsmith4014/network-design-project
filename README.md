@@ -1,8 +1,8 @@
-# Assignment
+# Network Design Project
 
-## Assignment 1: Network Design Project
+## Objective: Network Design for a Small Business using AWS Cloud Services
 
-Assignment: System and Network Design for Codeplatoon Website
+Mission: System and Network Design for Codeplatoon Website
 
 ### Background:
 
