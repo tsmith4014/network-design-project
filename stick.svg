@@ -1,0 +1,105 @@
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect x="0" y="0" width="1000" height="1000" fill="#000000"/>
+
+  <!-- VPC -->
+  <rect x="50" y="50" width="80" height="80" fill="purple" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="90" y="90" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">VPC</text>
+
+  <!-- ElasticCache -->
+  <rect x="50" y="300" width="80" height="80" fill="purple" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="90" y="340" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">ElasticCache</text>
+
+  <!-- Amazon S3 -->
+  <rect x="50" y="600" width="80" height="80" fill="green" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="90" y="640" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">Amazon S3</text>
+
+  <!-- Direct Connect -->
+  <rect x="450" y="50" width="80" height="80" fill="purple" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="490" y="90" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">Direct Connect</text>
+
+  <!-- EC2 (auto-scaling group) -->
+  <!-- EC2 instances -->
+  <rect x="420" y="300" width="50" height="50" fill="brown" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="480" y="300" width="50" height="50" fill="brown" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="420" y="360" width="50" height="50" fill="brown" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="480" y="360" width="50" height="50" fill="brown" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Auto-scaling triangle -->
+  <polygon points="425,300 525,300 475,410" fill="red"/>
+
+  <!-- ELB -->
+  <rect x="600" y="300" width="80" height="80" fill="purple" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="640" y="340" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">ELB</text>
+
+  <!-- AWS WAF -->
+  <rect x="720" y="300" width="80" height="80" fill="red" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="340" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">AWS WAF</text>
+
+  <!-- Shield -->
+  <rect x="720" y="400" width="80" height="80" fill="purple" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="440" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">Shield</text>
+
+  <!-- Amazon Route 53 -->
+  <rect x="720" y="600" width="80" height="80" fill="blue" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="640" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">Amazon Route 53</text>
+
+  <!-- On-Site Database -->
+  <rect x="900" y="50" width="80" height="160" fill="gray" stroke="white" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="940" y="130" font-family="Verdana" font-size="14" fill="white" text-anchor="middle">On-Site Database</text>
+
+  <!-- Stick Figures -->
+  <!-- Male -->
+  <circle cx="750" cy="750" r="10" fill="white"/>
+  <line x1="750" y1="760" x2="750" y2="800" stroke="white"/>
+  <line x1="750" y1="800" x2="740" y2="820" stroke="white"/>
+  <line x1="750" y1="800" x2="760" y2="820" stroke="white"/>
+  <line id="male_arm" x1="750" y1="770" x2="760" y2="790" stroke="white">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 750 770" to="360 750 770" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Female -->
+  <circle cx="800" cy="750" r="10" fill="white"/>
+  <line x1="800" y1="760" x2="800" y2="800" stroke="white"/>
+  <line x1="800" y1="800" x2="790" y2="820" stroke="white"/>
+  <line x1="800" y1="800" x2="810" y2="820" stroke="white"/>
+  <polygon points="790,770 810,770 800,800" fill="white"/>
+  <line id="female_arm" x1="800" y1="770" x2="810" y2="790" stroke="white">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 800 770" to="360 800 770" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Connectivity Arrows -->
+  <!-- Example: Arrow from VPC to ElasticCache -->
+  <line x1="130" y1="90" x2="90" y2="300" stroke="purple" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- Define arrowhead marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="purple"/>
+    </marker>
+  </defs>
+</svg>

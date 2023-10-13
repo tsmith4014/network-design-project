@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1002px" height="803px" viewBox="0 0 1002 803" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>stickana@2x</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stickana" transform="translate(1, 1)">
+            <g id="Group-3" fill-rule="nonzero">
+                <g id="Group-2">
+                    <rect id="Rectangle" stroke="#000000" fill="#99CCFF" x="0" y="0" width="1000" height="801"></rect>
+                    <rect id="Rectangle" fill="#808080" x="122.44898" y="258.784615" width="20.4081633" height="20.5384615"></rect>
+                    <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                        <tspan x="122.653061" y="274.080769">EC2</tspan>
+                    </text>
+                </g>
+            </g>
+            <path id="Line-7" d="M829.5,313 L834,322 L830,322 L830,325 L829,325 L829,322 L825,322 L829.5,313 Z" fill="#979797" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0.5" y="105.5" width="991" height="547"></rect>
+            <path id="Line-12" d="M361.976184,434.045276 L370.999993,438.49734 L362.024056,443.045148 L362.003,439.045 L182.50266,439.999993 L182.002667,440.002652 L181.997348,439.002667 L182.49734,439.000007 L361.997,438.045 L361.976184,434.045276 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-11" d="M773.877555,165.172201 L770.031765,174.470582 L767.409,171.449 L644.827799,277.877555 L644.450245,278.205354 L643.794646,277.450245 L644.172201,277.122445 L766.753,170.695 L764.131376,167.674598 L773.877555,165.172201 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-10" d="M765,278 L774,282.5 L765,287 L765,283 L644,283 L644,282 L765,282 L765,278 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-8" d="M827.5,319 L832,328 L828,328 L828,414 L827,414 L827,328 L823,328 L827.5,319 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-9" d="M485,437 L485,441 L779,441 L779,442 L485,442 L485,446 L476,441.5 L485,437 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-5" d="M549.896716,385.19567 L545.494802,394.244049 L543.059,391.07 L476.80433,441.896716 L476.407614,442.201046 L475.798954,441.407614 L476.19567,441.103284 L542.45,390.276 L540.016865,387.103166 L549.896716,385.19567 Z" fill="#979797" fill-rule="nonzero"></path>
+            <g id="Group" transform="translate(256, 246)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#008000" x="0" y="0" width="29" height="13"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="6" y="10">EC2</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(135, 245)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#008000" x="0" y="0" width="29" height="13"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="6" y="10">EC2</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(511, 243)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#008000" x="0" y="0" width="29" height="13"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="6" y="10">EC2</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(135, 277)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#808080" x="0" y="0" width="29" height="12"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="5" y="10">EC2</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(256, 280)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#808080" x="0" y="0" width="29" height="12"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="5" y="10">EC2</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(510, 277)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#808080" x="0" y="0" width="29" height="12"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="5" y="10">EC2</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" x="385" y="493" width="71" height="17"></rect>
+            <text id="192.168.1.1" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="10" font-weight="normal">
+                <tspan x="394" y="505">192.168.1.1</tspan>
+            </text>
+            <text id="AWS-Cloud" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="409" y="102">AWS Cloud</tspan>
+            </text>
+            <path d="M64,159 L370,159 L370,365 L64,365 Z" id="Rectangle" stroke="#000000" stroke-dasharray="5,5"></path>
+            <text id="Availability-Zone-1" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="164" y="194">Availability Zone 1</tspan>
+            </text>
+            <path d="M115,211 L319,211 L319,313 L115,313 Z" id="Rectangle" stroke="#000000" stroke-dasharray="5,5"></path>
+            <text id="Subnet-ACL" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="182" y="231">Subnet ACL</tspan>
+            </text>
+            <polygon id="nat1" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="217.5 334 192 385 243 385"></polygon>
+            <text id="NAT" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="10" font-weight="normal">
+                <tspan x="207" y="370">NAT</tspan>
+            </text>
+            <path d="M435,158 L741,158 L741,364 L435,364 Z" id="Rectangle" stroke="#000000" stroke-dasharray="5,5"></path>
+            <text id="Availability-Zone-2" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="521" y="179">Availability Zone 2</tspan>
+            </text>
+            <path d="M472,211 L676,211 L676,313 L472,313 Z" id="Rectangle" stroke="#000000" stroke-dasharray="5,5"></path>
+            <text id="Subnet-ACL" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="534" y="230">Subnet ACL</tspan>
+            </text>
+            <polygon id="nat2" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="574.5 334 549 385 600 385"></polygon>
+            <text id="NAT" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="10" font-weight="normal">
+                <tspan x="564" y="370">NAT</tspan>
+            </text>
+            <g id="Group" transform="translate(610, 243)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#008000" x="0" y="0" width="29" height="13"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="6" y="10">EC2</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(610, 277)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#808080" x="0" y="0" width="29" height="12"></rect>
+                <text id="EC2" fill="#000000" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <tspan x="5" y="10">EC2</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" stroke="#000000" fill="#FFCC66" fill-rule="nonzero" x="370" y="416" width="102" height="51"></rect>
+            <text id="ELB" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="409" y="447">ELB</tspan>
+            </text>
+            <path d="M353,385 L495,385 L495,488 L353,488 Z" id="Rectangle" stroke="#000000" stroke-dasharray="5,5"></path>
+            <text id="Subnet-ACL" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="386" y="406">Subnet ACL</tspan>
+            </text>
+            <g id="Group-6" transform="translate(371, 510)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#FF9933" x="0" y="0" width="102" height="51"></rect>
+                <text id="WAF-&amp;-Shield" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="10" y="31">WAF &amp; Shield</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(370, 582)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#FF6666" x="0" y="0" width="102" height="51"></rect>
+                <text id="Route-53" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="24.5" y="25.4">Route 53</tspan>
+                </text>
+            </g>
+            <g id="Group-9" transform="translate(778, 261)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#FFCC66" x="0" y="0" width="102" height="51"></rect>
+                <text id="S3-Buckets" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="18" y="30">S3 Buckets</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(778, 140)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#FF9933" x="0" y="0" width="102" height="51"></rect>
+                <text id="ElastiCache" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="14" y="31">ElastiCache</tspan>
+                </text>
+            </g>
+            <g id="Group-11" transform="translate(778, 417)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#FF6666" x="0" y="0" width="102" height="51"></rect>
+                <text id="CloudFront" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="18" y="27">CloudFront</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(74, 417)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#66CCFF" x="0" y="0" width="102" height="51"></rect>
+                <text id="DirectConnect" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="10" y="26">DirectConnect</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(74, 713)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#000000" fill="#99FF99" x="0" y="0" width="102" height="51"></rect>
+                <text id="Offsite-DB" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="21" y="25">Offsite DB</tspan>
+                </text>
+            </g>
+            <path id="Line-6" d="M124.5,468 L129,477 L125,477 L125,710 L124,710 L124,477 L120,477 L124.5,468 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M217.5,313 L222,322 L218,322 L218,335 L217,335 L217,322 L213,322 L217.5,313 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M253.093049,384.811952 L251.479,388.472 L370.701731,441.042502 L371.159229,441.244233 L370.755767,442.159229 L370.298269,441.957498 L251.075,389.386 L249.461884,393.046916 L243.042502,385.298269 L253.093049,384.811952 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-3" d="M574.5,313 L579,322 L575,322 L575,335 L574,335 L574,322 L570,322 L574.5,313 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line" d="M420.475031,561.000624 L425.418855,569.764676 L421.423,569.964 L421.999376,581.475031 L422.024345,581.974407 L421.025593,582.024345 L421.000624,581.524969 L420.425,570.014 L416.430084,570.214114 L420.475031,561.000624 Z" fill="#979797" fill-rule="nonzero"></path>
+            <line x1="421.5" y1="495.5" x2="422" y2="467.51" id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero"></line>
+        </g>
+    </g>
+</svg>
